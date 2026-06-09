@@ -61,7 +61,7 @@ Each Part B paper closes a mechanism gap Part A doesn't reach (aerosol / ocean /
 
 These are **citing relationships**, not constituents of this programme.
 
-- **Rehydrate Attribution Programme** (Shahid 2026; EarthArXiv submitted 2026-06-09). Lagrangian source attribution (HYSPLIT + Sodemann (2008)) + Eulerian corridor budget + spatial-coincidence conditioning test, applied to atmospheric-river events. Cited by P3, P4, and P7 where continental → oceanic moisture coupling is invoked. Code archive: forthcoming on Zenodo.
+- **Langragian Attribution** (Shahid 2026; EarthArXiv submitted 2026-06-09). Lagrangian source attribution (HYSPLIT + Sodemann (2008)) + Eulerian corridor budget + spatial-coincidence conditioning test, applied to atmospheric-river events. Cited by P3, P4, and P7 where continental → oceanic moisture coupling is invoked. Code archive: forthcoming on Zenodo.
 - **Pakistan Programme**. *The Atmospheric Valve* ([10.22541/essoar.15002431/v1](https://doi.org/10.22541/essoar.15002431/v1)) · *Orographic Ladder* ([10.31223/X5XN4V](https://doi.org/10.31223/X5XN4V)) · *Islamabad pollen* ([10.31223/X5WJ4H](https://doi.org/10.31223/X5WJ4H)). The Islamabad pollen paper is the empirical anchor for P10's giant-CCN channel.
 - **Iberian Karst** ([10.22541/essoar.15002922/v1](https://doi.org/10.22541/essoar.15002922/v1)). Methodological cousin for subsurface-flux diagnostics.
 
