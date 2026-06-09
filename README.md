@@ -6,7 +6,7 @@ A twelve-paper, single-author research programme quantifying a radiative-forcing
 
 The programme is structured in two parts. Together they are sufficient to defend a quantitative headline of the form *"X to Y W/m² of cooling lost to ecosystem degradation since pre-agricultural baseline"* — a number that sits in policy territory adjacent to the CO₂ ERF since 1750.
 
-> This repository is the **public landing page** for the programme. Each paper has its own code archive on Zenodo (linked below); per-paper development repositories are kept private at the author's discretion.
+> This repository is the **public landing page** for the programme. Each paper has its own code archive on Zenodo (linked below); per-paper development repositories are kept private but, accessible on request.
 
 ---
 
