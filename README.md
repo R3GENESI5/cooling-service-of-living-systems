@@ -69,7 +69,7 @@ These are **citing relationships**, not constituents of this programme.
 
 ## Funding
 
-Papers P5, P6, P7, and P8 are supported by **Stichting Climate Cleanup** (Netherlands). Papers P1–P4 and P9–P12 are self-funded. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscripts.
+Papers P5, P6, P7, and P8 are supported by **Stichting Climate Cleanup** (Netherlands). The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscripts.
 
 ## Affiliation
 
