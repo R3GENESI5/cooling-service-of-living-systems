@@ -73,7 +73,7 @@ Papers P5, P6, P7, and P8 are supported by **Stichting Climate Cleanup** (Nether
 
 ## Affiliation
 
-The programme supports — but is not branded by — the Eco Restoration Alliance's *Cooling Climate Quickly* (CCQ) initiative, to which the author contributes findings from this independent body of work.
+The programme supports the Eco Restoration Alliance's *Cooling Climate Quickly* (CCQ) initiative, to which the author contributes findings from this independent body of work.
 
 ---
 
